@@ -1,0 +1,13 @@
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\bin\Debug\netcoreapp3.1\Proyecto_Unidad5.exe
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\bin\Debug\netcoreapp3.1\Proyecto_Unidad5.deps.json
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\bin\Debug\netcoreapp3.1\Proyecto_Unidad5.runtimeconfig.json
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\bin\Debug\netcoreapp3.1\Proyecto_Unidad5.runtimeconfig.dev.json
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\bin\Debug\netcoreapp3.1\Proyecto_Unidad5.dll
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\bin\Debug\netcoreapp3.1\Proyecto_Unidad5.pdb
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\obj\Debug\netcoreapp3.1\Proyecto_Unidad5.csprojAssemblyReference.cache
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\obj\Debug\netcoreapp3.1\Proyecto_Unidad5.AssemblyInfoInputs.cache
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\obj\Debug\netcoreapp3.1\Proyecto_Unidad5.AssemblyInfo.cs
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\obj\Debug\netcoreapp3.1\Proyecto_Unidad5.csproj.CoreCompileInputs.cache
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\obj\Debug\netcoreapp3.1\Proyecto_Unidad5.dll
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\obj\Debug\netcoreapp3.1\Proyecto_Unidad5.pdb
+D:\Tic Curso Net\UD5\Proyecto_Unidad5\Proyecto_Unidad5\obj\Debug\netcoreapp3.1\Proyecto_Unidad5.genruntimeconfig.cache
